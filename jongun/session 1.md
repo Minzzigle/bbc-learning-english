@@ -33,5 +33,5 @@ Compound nous don't use hyphon.
 # Phrases
 
 1. Hyphens are little dashes in English. It used for making compound nouns and adjectives.
-2. There are many studends in this hall. I counted students and kenw that They were twenty-five.
+2. There are many students in this hall. I counted students and kenw that They were twenty-five.
 3. I study English in my home. I think that adjective for me is hard-working.
