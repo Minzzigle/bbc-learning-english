@@ -27,7 +27,7 @@ Use hyphen such as well-respected politicians.
 Never use hyphens in compound adjectives that have an adverb which end in -l -y
 
 ## compound nouns
-Compound nous don't use hyphon.
+Compound nouns don't use hyphon.
 
 
 # Phrases
