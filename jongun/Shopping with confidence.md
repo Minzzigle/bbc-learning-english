@@ -31,7 +31,7 @@ is this it? Yes, that's right. I'll take it. That's 30.50 pound. Here you are. T
 - Do you sell soju? I'd like to jin-ro soju. It's very delicious, I think.
 - Execuse me, I'd like to buy coffee.
 - I'm looking for a mouse for my Alienware aurora r5. Do you sell Alienware mouse?
-- What kind of book would you like to? I recommand you The Grestest Gatsby. It's the masterpiece.
+- What kind of book would you like to? I recommand you the Grestest Gatsby. It's the masterpiece.
 - Would you like a plastic bag? It's 1000 won.
 - How would you like to pay? cash or credit card.
 - Thank you for your recommendation. But I'd like to be recommended a book writen in English. Because I'm a student. What kind of book
