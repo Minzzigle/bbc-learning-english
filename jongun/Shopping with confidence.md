@@ -36,4 +36,4 @@ is this it? Yes, that's right. I'll take it. That's 30.50 pound. Here you are. T
 - How would you like to pay? cash or credit card.
 - Thank you for your recommendation. But I'd like to be recommended a book writen in English. Because I'm a student. What kind of book
 would you like to recommend?
-- It's very expensive. is It serious? This mouse is 100 dallor.
+- It's very expensive. is it serious? This mouse is 100 dollar.
