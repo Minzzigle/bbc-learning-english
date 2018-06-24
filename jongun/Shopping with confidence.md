@@ -10,16 +10,19 @@ Work with a partner and discuss the following question
 ## Lintening Script
 
 1. Conversation 1
+
 Execuse me. Do you have these shoes in any other colour? I'm sorry, we don't. In fact, that's the last pair in that style
 we have in stock. and **they're on** clearance. Well, I do like this style. May I try them on? Of course. They're perfect fit.
 That's very lucky. Would you like to buy them? That's 30% off. Yes, I would. Thanks.
 
 2. Conversation 2
+
 Execuse me. I'd like to buy some sheets. But I'm not sure **if these are the** right size. Are they for a single bad or double bad?
 They're for a double bad. That set you **have is for** a king size. I'll get you the right size. It's set with fitted sheets and 
 two pillowcases cases, right? That's right
 
 2. Conversation 3
+
 May I help you? Yes, I'm looking for a tool to make holes in wood. But i'm not sure what is called. You must mean a drill, 
 is this it? Yes, that's right. I'll take it. That's 30.50 pound. Here you are. Thanks, have a nice day!
 
