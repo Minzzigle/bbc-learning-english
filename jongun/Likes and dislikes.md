@@ -1,7 +1,7 @@
 # Likes And Dislikes
 Which of the things in the box do you like? Which do you dislike? Choose four to talk about with a partner
 
-# Listening Script > 스크립트 보고 수정 필요
+# Listening Script
 I really enjoy that last speaker. He was so informative and he really seemed to be an export in his field. Will was at that Session, too. **What did you think of him**, Well?
 
 Actully, I wasn't that impressed. I didn't really like his delivery style. He seemed a bit arrgont, as though he thought everyone shoud accept what he said without question. I didn't think Sam and Julie missed much by not going. Where were you two, by the way?
